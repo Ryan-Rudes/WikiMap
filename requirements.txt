@@ -1,0 +1,4 @@
+termcolor
+matplotlib
+rich
+networkx
